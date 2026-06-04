@@ -12,18 +12,23 @@ DOI: https://doi.org/10.1016/j.atech.2026.102106
 
 ## Overview
 
-This repository contains a ROS2-based autonomous navigation pipeline for agricultural rovers operating in vineyard inter-rows under sparse or absent vegetation conditions.
+This repository provides the core ROS2 implementation of the LiDAR/RANSAC navigation method described in the associated publication.
 
-The approach relies exclusively on LiDAR perception and robust RANSAC regression to estimate vineyard row boundaries and the inter-row centerline without GNSS support.
+The method relies exclusively on LiDAR perception and robust RANSAC regression to estimate vineyard row boundaries and the inter-row centerline without GNSS support.
+
+The code is released to promote reproducibility, further research, and academic use.
+
+---
 
 ## Main Features
 
-- GNSS-free navigation
-- LiDAR-only perception
-- Robust RANSAC row estimation
-- ROS2 Humble compatible
-- Real-world vineyard validation
-- Gazebo simulation support
+* GNSS-free inter-row navigation
+* LiDAR-only perception
+* RANSAC-based row boundary estimation
+* Centerline estimation from vineyard posts
+* ROS2 Humble compatible
+
+---
 
 ## Citation
 
@@ -37,3 +42,12 @@ If you use this software in academic work, please cite:
   year = {2026},
   doi = {10.1016/j.atech.2026.102106}
 }
+```
+
+---
+
+## License
+
+GNU General Public License v3.0 (GPL-3.0)
+
+Copyright (C) 2026 Gerardo Betrò
