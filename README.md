@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1259278320.svg)](https://doi.org/10.5281/zenodo.20544591)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20544592.svg)](https://doi.org/10.5281/zenodo.20544592)
 
 # GNSS-Free Vineyard Navigation
 
