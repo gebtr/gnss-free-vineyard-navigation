@@ -18,7 +18,7 @@ This repository provides the core ROS2 implementation of the LiDAR/RANSAC naviga
 
 The method relies exclusively on LiDAR perception and robust RANSAC regression to estimate vineyard row boundaries and the inter-row centerline without GNSS support.
 
-The code is released to promote reproducibility, further research, and academic use.
+The code is released to support the reproducibility of the published results, promote further research, and encourage academic use.
 
 ---
 
