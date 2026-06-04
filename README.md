@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/1259278320.svg)](https://doi.org/10.5281/zenodo.20544591)
+
+# GNSS-Free Vineyard Navigation
+
+Official implementation of the paper:
+...
 # GNSS-Free Vineyard Navigation
 
 Official implementation of the paper:
