@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+
+title: GNSS-Free Vineyard Navigation
+
+message: "If you use this software, please cite the associated publication."
+
+type: software
+
+authors:
+  - family-names: Betrò
+    given-names: Gerardo
+
+repository-code: https://github.com/<username>/gnss-free-vineyard-navigation
+
+license: GPL-3.0
+
+preferred-citation:
+  type: article
+
+  authors:
+    - family-names: Betrò
+      given-names: Gerardo
+    - family-names: Pascuzzi
+      given-names: Simone
+    - family-names: Paciolla
+      given-names: Francesco
+
+  title: "A GNSS-free LiDAR-based navigation architecture for autonomous inter-row operation under sparse or absent vegetation conditions"
+
+  journal: Smart Agricultural Technology
+
+  year: 2026
+
+  doi: 10.1016/j.atech.2026.102106
