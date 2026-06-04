@@ -3,10 +3,6 @@
 # GNSS-Free Vineyard Navigation
 
 Official implementation of the paper:
-...
-# GNSS-Free Vineyard Navigation
-
-Official implementation of the paper:
 
 **A GNSS-free LiDAR-based navigation architecture for autonomous inter-row operation under sparse or absent vegetation conditions**
 
