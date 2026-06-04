@@ -30,6 +30,25 @@ The code is released to promote reproducibility, further research, and academic 
 
 ---
 
+## Repository Contents
+
+```text
+.
+├── LICENSE
+├── README.md
+├── CITATION.cff
+└── row_navigation_node.py
+```
+
+---
+
+## Dependencies
+
+* ROS2 Humble
+* NumPy
+
+---
+
 ## Citation
 
 If you use this software in academic work, please cite:
